@@ -18,4 +18,4 @@ Por útlimo, resolvi analisar os setimentos dos tweets por usuário. Com isso, q
 ![scatter](https://user-images.githubusercontent.com/77032413/180493444-8f795a73-bbae-4676-bf76-4c9e8aacf671.png)
 
 # Conclusão
-O objetivo deste projeto era praticar a coleta de tweets usando a API do twitter com a biblioteca retweet e realizar uma análise exploratória dos dados coletados através das bibliotecas wordcloud, tidyr e stringr. No geral, os resultados estiveram dentro do esperado. Pessoalmente, eu achei a contratação um acontecimento muito empolgante para a temporada do Barcelona. O código completo com minhas anotações está no arquivo script.R!
+O objetivo deste projeto era praticar a coleta de tweets usando a API do twitter com a biblioteca rtweet e realizar uma análise exploratória dos dados coletados através das bibliotecas wordcloud, tidyr e stringr. No geral, os resultados estiveram dentro do esperado. Pessoalmente, eu achei a contratação um acontecimento muito empolgante para a temporada do Barcelona. O código completo com minhas anotações está no arquivo script.R!
