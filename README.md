@@ -5,7 +5,7 @@ O objeto de pesquisa do projeto foi o anúncio do atacante Robert Lewandowski pe
 
 Para simplificar a pesquisa, optei por excluir os retweets da coleta. Também optei por coletar apenas tweets em inglês, pois dessa forma pude usar o léxico do Bing para análise de sentimento em texto. Esse léxico já tem catalogadas as palavras mais comuns do idioma inglês, com seu devido score (positivo ou negativo), assim como as stopwords (palavras que devem ser ignoradas) mais comuns.
 
-Num primeiro momento, foquei em visualizar quais eram as palavras positivas e negativas mais frequentas através de um wordcloud. O mais interessante dessa etapa foi perceber que existe uma preocupação com as finanças do Barcelona, representado pela palavra "debt" (dívida). Isso ocorre pois recentemente os catalâes declararam uma dívida superior à 1 bilhão de Euros, e ainda assim gastaram cerca de 45 milhões de euros na contratação do atacante polonês de 34 anos.
+Num primeiro momento, foquei em visualizar quais eram as palavras positivas e negativas mais frequentas através de um wordcloud. O mais interessante dessa etapa foi perceber que existe uma preocupação com as finanças do Barcelona, representado pela palavra "debt" (dívida). Isso ocorre pois recentemente os catalães declararam uma dívida superior à 1 bilhão de Euros, e ainda assim gastaram cerca de 45 milhões de euros na contratação do atacante polonês de 34 anos.
 
 ![Rplot2](https://user-images.githubusercontent.com/77032413/180491817-27975322-d3be-4c0b-a33c-a50a9d2ff481.png)
 
