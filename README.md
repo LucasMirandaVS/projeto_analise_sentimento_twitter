@@ -13,7 +13,7 @@ Em seguida, foquei na quantidade de tweets por sentimento, a fim de saber se o s
 
 ![pizza](https://user-images.githubusercontent.com/77032413/180492772-d30d080d-aaef-4089-8e24-387c80370d6c.png)
 
-Por útlimo, resolvi analisar os setimentos dos tweets por usuário. Com isso, queria averiguar como os usuários se sentiam individualmente sobre o jogador e seu anúncio. Fazer uma análise desse tipo para milhares de usuários diferentes não seria muito prático do ponto de vista visual, então optei por filtrar a amostra para os 50 tweets favoritados na rede. Dessa forma, cheguei a uma resposta mais completa sobre os sentimentos dos usuários através de um scatterplot. O curioso desse resultado foi ver que apesar de no geral os tweets da amostra serem mais positivos, a média do top50 ficou abaixo do esperado.  
+Por útlimo, resolvi analisar os setimentos dos tweets por usuário. Com isso, queria averiguar como os usuários se sentiam individualmente sobre o jogador e seu anúncio. Fazer uma análise desse tipo para milhares de usuários diferentes não seria muito prático do ponto de vista visual, então optei por filtrar a amostra para o top50 tweets favoritados na rede. Dessa forma, cheguei a uma resposta mais completa sobre os sentimentos dos usuários através de um scatterplot. O curioso desse resultado foi ver que apesar de no geral os tweets da amostra serem mais positivos, a média do top50 ficou abaixo do esperado.  
 
 ![scatter](https://user-images.githubusercontent.com/77032413/180493444-8f795a73-bbae-4676-bf76-4c9e8aacf671.png)
 
